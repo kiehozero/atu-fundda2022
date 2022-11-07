@@ -13,49 +13,54 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 ### Exercise 1 - Information
 
-Task: Adapt the code in Ian's initial tutorials to generate a 1000 character-long string with weights based on the previous two characters.
+<b>Task</b>: Adapt the code in Ian's initial tutorials to generate a 1000 character-long string with weights based on the previous two characters.
 
-References:
+<b>References</b>:
 
 ### Exercise 2 - Entropy
 
-Task: Explain why the log of zero is undefined.
+<b>Task</b>: Explain why the log of zero is undefined.
 
-References:
+<b>References</b>:
 
 ### Exercise 3a - Randomness 
 
-Task: It is somewhat interesting that ( 5 * 4 * 3 * 2 * 1 ) perfectly divides ( 10 * 9 * 8 * 7 * 6 ), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be ( 10 * 9 * 8 * 7 ) / ( 4 * 3 * 2 * 1 ). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
+<b>Task</b>: It is somewhat interesting that ( 5 * 4 * 3 * 2 * 1 ) perfectly divides ( 10 * 9 * 8 * 7 * 6 ), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be ( 10 * 9 * 8 * 7 ) / ( 4 * 3 * 2 * 1 ). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
 
-References:
+<b>References</b>:
 
 ### Exercise 3b - Randomness
 
-Task: Note that there are the same number of way to get 4 tails as there are to get 4 heads. Explain why this is.
+<b>Task</b>: Note that there are the same number of way to get 4 tails as there are to get 4 heads. Explain why this is.
 
-References:
+<b>References</b>:
 
 ### Exercise 4 - Distributions
 
-Task: Plot bar charts of histograms of any three different distributions listed at the following link: [link](https://numpy.org/doc/stable/reference/random/generator.html#distributions)
+<b>Task</b>: Plot bar charts of histograms of any three different distributions listed at this [link](https://numpy.org/doc/stable/reference/random/generator.html#distributions).
 
-References:
+<b>References</b>:
 
 ### Exercise 5a - Cognitive Bias
 
-Task: Give three real-world examples of different types of cognitive bias.
+<b>Task</b>: Give three real-world examples of different types of cognitive bias.
 
-References: 
-J. Ellenberg, <i>How Not To Be Wrong: The Power of Mathematical Thinking</i> (2016). Excerpt published online by Penguin Press' [Medium account(https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d).
-RTÉ.ie, "Winning Streak" (2018) Published [online](https://www.rte.ie/tv/programmes/932584-winning-streak/).
+<b>References</b>: 
+
+Deleniv, S., Ariely, D. and Peters, K. , "Natural is Better: How the Appeal to Nature Fallacy Derails Public Health (2021) Behavioural Scientist, New York. Published [online](https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/).
+
+J. Ellenberg, J.<i>How Not To Be Wrong: The Power of Mathematical Thinking</i> (2016). Excerpt published online by Penguin Press, London. [Medium account](https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d).
+
+RTÉ.ie, "Winning Streak" (2018) Raidió Teilifís Éireann, Dublin. Published [online](https://www.rte.ie/tv/programmes/932584-winning-streak/).
+
 Wikipedia, "Survivorship Bias" (2022, last edit). Published [online](https://en.wikipedia.org/wiki/Survivorship_bias).
 
 
 ### Exercise 5b - Standard Deviation
 
-Task: Show that the difference between the standard deviation calculations is greatest for small sample sizes.
+<b>Task</b>: Show that the difference between the standard deviation calculations is greatest for small sample sizes.
 
-References:
+<b>References</b>:
 
 
 ## Normal Distribution
