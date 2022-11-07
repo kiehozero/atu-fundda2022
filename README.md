@@ -81,42 +81,5 @@ Notes:
 
 References:
 
-### Exercise - 
 
-Task:
-
-Solution:
-
-Notes:
-
-References:
-
-### Exercise - 
-
-Task:
-
-Solution:
-
-Notes:
-
-References:
-
-### Exercise - 
-
-Task:
-
-Solution:
-
-Notes:
-
-References:
-
-### Exercise - 
-
-Task:
-
-Solution:
-
-Notes:
-
-References:
+## Normal Distribution
