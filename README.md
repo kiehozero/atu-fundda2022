@@ -15,19 +15,11 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 Task: Adapt the code in Ian's initial tutorials to generate a 1000 character-long string with weights based on the previous two characters.
 
-Solution:
-
-Notes:
-
 References:
 
 ### Exercise 2 - Entropy
 
 Task: Explain why the log of zero is undefined.
-
-Solution:
-
-Notes:
 
 References:
 
@@ -35,19 +27,11 @@ References:
 
 Task: It is somewhat interesting that ( 5 * 4 * 3 * 2 * 1 ) perfectly divides ( 10 * 9 * 8 * 7 * 6 ), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be ( 10 * 9 * 8 * 7 ) / ( 4 * 3 * 2 * 1 ). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
 
-Solution:
-
-Notes:
-
 References:
 
 ### Exercise 3b - Randomness
 
 Task: Note that there are the same number of way to get 4 tails as there are to get 4 heads. Explain why this is.
-
-Solution:
-
-Notes:
 
 References:
 
@@ -55,29 +39,21 @@ References:
 
 Task: Plot bar charts of histograms of any three different distributions listed at the following link: [link](https://numpy.org/doc/stable/reference/random/generator.html#distributions)
 
-Solution:
-
-Notes:
-
 References:
 
 ### Exercise 5a - Cognitive Bias
 
 Task: Give three real-world examples of different types of cognitive bias.
 
-Solution:
+References: 
+J. Ellenberg, <i>How Not To Be Wrong: The Power of Mathematical Thinking</i> (2016). Excerpt published online by Penguin Press' [Medium account(https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d).
+RTÉ.ie, "Winning Streak" (2018) Published [online](https://www.rte.ie/tv/programmes/932584-winning-streak/).
+Wikipedia, "Survivorship Bias" (2022, last edit). Published [online](https://en.wikipedia.org/wiki/Survivorship_bias).
 
-Notes:
-
-References:
 
 ### Exercise 5b - Standard Deviation
 
 Task: Show that the difference between the standard deviation calculations is greatest for small sample sizes.
-
-Solution:
-
-Notes:
 
 References:
 
