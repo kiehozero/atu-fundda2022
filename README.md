@@ -47,7 +47,7 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 <b>References</b>: 
 
-Deleniv, S., Ariely, D. and Peters, K. , "Natural is Better: How the Appeal to Nature Fallacy Derails Public Health (2021) Behavioural Scientist, New York. Published [online](https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/).
+Deleniv, S., Ariely, D. and Peters, K., "Natural is Better: How the Appeal to Nature Fallacy Derails Public Health (2021) Behavioural Scientist, New York. Published [online](https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/).
 
 J. Ellenberg, J.<i>How Not To Be Wrong: The Power of Mathematical Thinking</i> (2016). Excerpt published online by Penguin Press, London. [Medium account](https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d).
 
