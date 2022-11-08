@@ -39,7 +39,7 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 <b>Task</b>: Plot bar charts of histograms of any three different distributions listed at this [link](https://numpy.org/doc/stable/reference/random/generator.html#distributions).
 
-<b>References</b>:
+<b>References</b>: [link](https://www.g2.com/articles/discrete-vs-continuous-data) - was helpful for explanations
 
 ### Exercise 5a - Cognitive Bias
 
