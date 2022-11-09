@@ -39,8 +39,10 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 <b>References</b>: 
 
+Bobbitt, Z. (2020) "An Introduction to the Multinomial Distribution".Available at [Statolog.org](https://www.statology.org/multinomial-distribution/) (Accessed 9th November, 2022).<br>
 Bobbitt, Z. (2021) "An Introduction to the Triangular Distribution". Available at [Statology.org](https://www.statology.org/triangular-distribution/) (Accessed 8th November, 2022).<br>
-Numpy Documentation (2022) "numpy.random.Generator.triangular", [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 3rd November, 2022).<br>
+Numpy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 3rd November, 2022).<br>
+Russano, E. (2022) "Multinoulli and Multinomial Distributions with Examples in Python". Available at [euanrussano.com](https://www.euanrussano.com/post/probability/multinoulli_multinomial/) (Accessed 9th November, 2022).
 Spardha (2021) "Your Guide to Discrete Probability Distributions and Their Applications in R", [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/7-types-of-discrete-probability-distributions-and-their-applications-in-r-ba5e2e263bd5) (Accessed 3rd November, 2022).<br>
 Wikipedia (2022, last edit) "Triangular Distribution. Available at [Wikipedia](https://en.wikipedia.org/wiki/Triangular_distribution) (Accessed 9th November, 2022).
 Zangre, A. (2019) "Discrete vs. Continuous Data - What's the Difference?", [G2.com](https://www.g2.com/articles/discrete-vs-continuous-data) (Accessed 3rd November, 2022).
