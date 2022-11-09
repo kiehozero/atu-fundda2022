@@ -39,12 +39,20 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 <b>References</b>: 
 
-Bobbitt, Z. (2020) "An Introduction to the Multinomial Distribution".Available at [Statolog.org](https://www.statology.org/multinomial-distribution/) (Accessed 9th November, 2022).<br>
-Bobbitt, Z. (2021) "An Introduction to the Triangular Distribution". Available at [Statology.org](https://www.statology.org/triangular-distribution/) (Accessed 8th November, 2022).<br>
-Numpy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 3rd November, 2022).<br>
+Bobbitt, Z. (2020) "An Introduction to the Multinomial Distribution". Available at [Statolog.org](https://www.statology.org/multinomial-distribution/) (Accessed 9th November, 2022).
+<br>
+Bobbitt, Z. (2021) "An Introduction to the Triangular Distribution". Available at [Statology.org](https://www.statology.org/triangular-distribution/) (Accessed 8th November, 2022).
+<br>
+NumPy Documentation (2022) "numpy.random.Generator.multinomial". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.multinomial.html#numpy.random.Generator.multinomial) (Accessed 9th November, 2022).
+<br>
+NumPy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 3rd November, 2022).
+<br>
 Russano, E. (2022) "Multinoulli and Multinomial Distributions with Examples in Python". Available at [euanrussano.com](https://www.euanrussano.com/post/probability/multinoulli_multinomial/) (Accessed 9th November, 2022).
-Spardha (2021) "Your Guide to Discrete Probability Distributions and Their Applications in R", [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/7-types-of-discrete-probability-distributions-and-their-applications-in-r-ba5e2e263bd5) (Accessed 3rd November, 2022).<br>
+<br>
+Spardha (2021) "Your Guide to Discrete Probability Distributions and Their Applications in R", [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/7-types-of-discrete-probability-distributions-and-their-applications-in-r-ba5e2e263bd5) (Accessed 3rd November, 2022).
+<br>
 Wikipedia (2022, last edit) "Triangular Distribution. Available at [Wikipedia](https://en.wikipedia.org/wiki/Triangular_distribution) (Accessed 9th November, 2022).
+<br>
 Zangre, A. (2019) "Discrete vs. Continuous Data - What's the Difference?", [G2.com](https://www.g2.com/articles/discrete-vs-continuous-data) (Accessed 3rd November, 2022).
 <br><br>
 
@@ -55,13 +63,13 @@ Zangre, A. (2019) "Discrete vs. Continuous Data - What's the Difference?", [G2.c
 <b>References</b>: 
 
 Deleniv, S., Ariely, D. and Peters, K. (2021) "Natural is Better: How the Appeal to Nature Fallacy Derails Public Health". Available online at [Behavioural Scientist](https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/) (Accessed 3rd November, 2022).
-
+<br>
 Ellenberg, J. (2016) <i>How Not To Be Wrong: The Power of Mathematical Thinking</i>. Excerpt available online at the Penguin Press [Medium account](https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d) (Accessed 3rd November, 2022).
-
+<br>
 RTÉ.ie (2018) "Winning Streak". Available at [Raidió Teilifís Éireann](https://www.rte.ie/tv/programmes/932584-winning-streak/) (Accessed 3rd November, 2022).
-
+<br>
 Wikipedia (2022, last edit). "Survivorship Bias". Available at [Wikipedia](https://en.wikipedia.org/wiki/Survivorship_bias) (Accessed 3rd November, 2022).
-
+<br><br>
 
 ### <b>Exercise 5b - Standard Deviation</b>
 <b>Task</b>: Show that the difference between the standard deviation calculations is greatest for small sample sizes.
