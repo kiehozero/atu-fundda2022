@@ -39,7 +39,7 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 <b>References</b>: 
 
-Bobbitt, Z. (2020) "An Introduction to the Multinomial Distribution". Available at [Statolog.org](https://www.statology.org/multinomial-distribution/) (Accessed 9th November, 2022).
+Bobbitt, Z. (2020) "An Introduction to the Multinomial Distribution". Available at [Statology.org](https://www.statology.org/multinomial-distribution/) (Accessed 9th November, 2022).
 <br>
 Bobbitt, Z. (2021) "An Introduction to the Triangular Distribution". Available at [Statology.org](https://www.statology.org/triangular-distribution/) (Accessed 8th November, 2022).
 <br>
