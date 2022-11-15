@@ -24,7 +24,7 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 ### **Exercise 3a - Randomness**
 
-**Task**: It is somewhat interesting that ( 5 * 4 * 3 * 2 * 1 ) perfectly divides ( 10 * 9 * 8 * 7 * 6 ), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be ( 10 * 9 * 8 * 7 ) / ( 4 * 3 * 2 * 1 ). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
+**Task**: It is somewhat interesting that (5*4*3*2*1) perfectly divides (10*9*8*7*6), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be (10*9*8*7)/(4*3*2*1). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
 
 **References**:
 
@@ -44,15 +44,27 @@ Bobbitt, Z. (2020) "An Introduction to the Multinomial Distribution". Available 
 \
 Bobbitt, Z. (2021) "An Introduction to the Triangular Distribution". Available at [Statology.org](https://www.statology.org/triangular-distribution/) (Accessed 8th November, 2022).
 \
-NumPy Documentation (2022) "numpy.random.Generator.multinomial". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.multinomial.html#numpy.random.Generator.multinomial) (Accessed 9th November, 2022).
+Frost, J. (2017) "Degrees of Freedom in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/hypothesis-testing/degrees-freedom-statistics/) (Accessed 15th November, 2022).
+\
+MatPlotLib Documentation (2022) "matplotlib.pyplot.subplot". Available at [MatPlotLib.org](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot.html) (Accessed 15th November, 2022)
+\
+NumPy Documentation (2022) "numpy.random.Generator.chisquare". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.chisquare.html) (Accessed 15th November, 2022).
+\
+NumPy Documentation (2022) "numpy.random.Generator.multinomial". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.multinomial.html) (Accessed 9th November, 2022).
 \
 NumPy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 3rd November, 2022).
 \
 Russano, E. (2022) "Multinoulli and Multinomial Distributions with Examples in Python". Available at [euanrussano.com](https://www.euanrussano.com/post/probability/multinoulli_multinomial/) (Accessed 9th November, 2022).
 \
-Spardha (2021) "Your Guide to Discrete Probability Distributions and Their Applications in R", [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/7-types-of-discrete-probability-distributions-and-their-applications-in-r-ba5e2e263bd5) (Accessed 3rd November, 2022).
+Spardha (2021) "Your Guide to Discrete Probability Distributions and Their Applications in R". Available at [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/7-types-of-discrete-probability-distributions-and-their-applications-in-r-ba5e2e263bd5) (Accessed 3rd November, 2022).
 \
-Wikipedia (2022, last edit) "Triangular Distribution. Available at [Wikipedia](https://en.wikipedia.org/wiki/Triangular_distribution) (Accessed 9th November, 2022).
+Turney, S. (2022) "Chi-Square (Χ²) Distributions | Definition & Examples". Available at [Scribbr](https://www.scribbr.com/statistics/chi-square-distributions/) (Accessed 15th November, 2022).
+\
+Wikipedia (2022, last edit) "Chi-Squared Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared_distribution) (Accessed 15th November, 2022).
+\
+Wikipedia (2022, last edit) "Degrees of Freedom (Statistics)". Available at [Wikipedia](https://simple.wikipedia.org/wiki/Degrees_of_freedom_(statistics)) (Accessed 15th November, 2022).
+\
+Wikipedia (2022, last edit) "Triangular Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Triangular_distribution) (Accessed 9th November, 2022).
 \
 Zangre, A. (2019) "Discrete vs. Continuous Data - What's the Difference?", [G2.com](https://www.g2.com/articles/discrete-vs-continuous-data) (Accessed 3rd November, 2022).
 
