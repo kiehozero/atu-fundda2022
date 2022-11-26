@@ -16,11 +16,21 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 **References**:
 
-### **Exercise 2 - Entropy**
+### **Exercise 2 - Logarithms**
 
 **Task**: Explain why the log of zero is undefined.
 
 **References**:
+
+RapidTables (2022) "Logarithm of Zero". Available at [RapidTables](https://www.rapidtables.com/math/algebra/logarithm/Logarithm_of_0.html) (Accessed 26th November, 2022).
+\
+StackExchange (2012) "Why are logarithms not defined for 0 or negatives?". Available at [StackExchange Mathematics](https://math.stackexchange.com/questions/116622/why-are-logarithms-not-defined-for-0-and-negatives) (Accessed 26th November, 2022).
+\
+Kelly, Steve (2012) "Logarithms, Explained". Available at [TED-Ed on Youtube](https://www.youtube.com/watch?v=zzu2POfYv0Y) (Accessed 26th November, 2022).
+\
+Vedantu (2022) "Log of Zero". Available at [Vedantu](https://www.vedantu.com/maths/value-of-log-0) (Accessed 26th November, 2022).
+\
+W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://www.w3schools.com/python/ref_math_log.asp) (Accessed 26th November, 2022).
 
 ### **Exercise 3a - Randomness**
 
@@ -88,6 +98,20 @@ Wikipedia (2022, last edit). "Survivorship Bias". Available at [Wikipedia](https
 
 **References**:
 
+### **Exercise 6a - Morley Box Plots**
+
+**References**:
+
+### **Exercise 6b - Fisher's Irish Box Plots**
+
+**References**:
+
+### **Exercise 6c - Proportionality**
+
+**References**:
+
 ## **Normal Distribution**
 
 **References**:
+
+
