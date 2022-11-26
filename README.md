@@ -2,7 +2,9 @@
 
 This repository serves as my assessment for the Fundamentals of Data Analysis module, a constituent module of the Higher Diploma in Data Analytics at the Atlantic Technological University, Ireland. As part of the course, we were given tasks each week with a single deadline at the end of term; all of the notebooks associated with these tasks are tores in the Practicals (ADD LINK) sub-folder.
 
-I have stored any notebooks or PDF files that we received as part of the course in the Materials (ADD LINK) section of this repository, just so I had this information to hand while I was working through it, and also so that I could easily reference any of the lecturer's remarks. Some of these are heavily annotated by myself, while others are less so; in any case, these are equivalent to any margin scribbles I would have done in a book-based module.
+I have stored any notebooks or PDF files that we received as part of the course in the [Materials](\materials) section of this repository, just so I had this information to hand while I was working through it, and also so that I could easily reference any of the lecturer's remarks. Some of these are heavily annotated by myself, while others are less so; in any case, these are equivalent to any margin scribbles I would have done in a book-based module.
+
+Special thanks to my friend Richard Bilsborough who has studied undergraduate economics and answered a ton of my questions, particular on entropy and logarithms. He provided the NIST article that is referenced in the second exercise.
 
 ## Using Jupyter Notebooks
 
