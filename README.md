@@ -22,6 +22,10 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 **References**:
 
+Aziz, Khalil Ahmed (2020) "Learn How to Write Markdown and LaTeX in The Jupyter Notebook". Available at [Towards Data Science (Medium)](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd) (Accessed 26th November, 2022).
+\
+National Institute of Standards and Technology (2017) "A Tutorial introduction to the ideas behind Normalized cross-entropy and the information-theoretic idea of Entropy". Available at [NIST](https://www.nist.gov/system/files/documents/2017/11/30/nce.pdf) (Accessed 26th November, 2022).
+\
 RapidTables (2022) "Logarithm of Zero". Available at [RapidTables](https://www.rapidtables.com/math/algebra/logarithm/Logarithm_of_0.html) (Accessed 26th November, 2022).
 \
 StackExchange (2012) "Why are logarithms not defined for 0 or negatives?". Available at [StackExchange Mathematics](https://math.stackexchange.com/questions/116622/why-are-logarithms-not-defined-for-0-and-negatives) (Accessed 26th November, 2022).
@@ -113,5 +117,3 @@ Wikipedia (2022, last edit). "Survivorship Bias". Available at [Wikipedia](https
 ## **Normal Distribution**
 
 **References**:
-
-
