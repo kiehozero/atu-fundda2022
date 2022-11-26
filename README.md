@@ -1,6 +1,6 @@
 # Assessment: Fundamentals of Data Analysis, Autumn 2022
 
-This repository serves as my assessment for the Fundamentals of Data Analysis module, a constituent module of the Higher Diploma in Data Analytics at the Atlantic Technological University, Ireland. As part of the course, we were given tasks each week with a single deadline at the end of term; all of the notebooks associated with these tasks are tores in the Practicals (ADD LINK) sub-folder.
+This repository serves as my assessment for the Fundamentals of Data Analysis module, a constituent module of the Higher Diploma in Data Analytics at the Atlantic Technological University, Ireland. As part of the course, we were given tasks each week with a single deadline at the end of term; all of the notebooks associated with these tasks are tores in the [Practicals](practicals) sub-folder.
 
 I have stored any notebooks or PDF files that we received as part of the course in the [Materials](materials) section of this repository, just so I had this information to hand while I was working through it, and also so that I could easily reference any of the lecturer's remarks. Some of these are heavily annotated by myself, while others are less so; in any case, these are equivalent to any margin scribbles I would have done in a book-based module.
 
@@ -26,17 +26,21 @@ Special thanks to my friend Richard Bilsborough who has studied undergraduate ec
 
 Aziz, Khalil Ahmed (2020) "Learn How to Write Markdown and LaTeX in The Jupyter Notebook". Available at [Towards Data Science (Medium)](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd) (Accessed 26th November, 2022).
 \
+Fast and Easy Maths (2022) "Why we cannot find log 0?". Available at [YouTube](https://www.vedantu.com/maths/value-of-log-0) (Accessed 26th November, 2022).
+\
+Kelly, Steve (2012) "Logarithms, Explained". Available at [TED-Ed on Youtube](https://www.youtube.com/watch?v=zzu2POfYv0Y) (Accessed 26th November, 2022).
+\
 National Institute of Standards and Technology (2017) "A Tutorial introduction to the ideas behind Normalized cross-entropy and the information-theoretic idea of Entropy". Available at [NIST](https://www.nist.gov/system/files/documents/2017/11/30/nce.pdf) (Accessed 26th November, 2022).
 \
 RapidTables (2022) "Logarithm of Zero". Available at [RapidTables](https://www.rapidtables.com/math/algebra/logarithm/Logarithm_of_0.html) (Accessed 26th November, 2022).
 \
 StackExchange (2012) "Why are logarithms not defined for 0 or negatives?". Available at [StackExchange Mathematics](https://math.stackexchange.com/questions/116622/why-are-logarithms-not-defined-for-0-and-negatives) (Accessed 26th November, 2022).
 \
-Kelly, Steve (2012) "Logarithms, Explained". Available at [TED-Ed on Youtube](https://www.youtube.com/watch?v=zzu2POfYv0Y) (Accessed 26th November, 2022).
-\
 Vedantu (2022) "Log of Zero". Available at [Vedantu](https://www.vedantu.com/maths/value-of-log-0) (Accessed 26th November, 2022).
 \
 W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://www.w3schools.com/python/ref_math_log.asp) (Accessed 26th November, 2022).
+\
+Wikipedia (2022, last edit) "Logarithm: Graph of the Logarithm Function". Available at [Wikipedia](https://en.wikipedia.org/wiki/Logarithm#Graph_of_the_logarithm_function) (Accessed 26th November, 2022).
 
 ### **Exercise 3a - Randomness**
 
