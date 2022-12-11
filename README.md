@@ -102,11 +102,19 @@ RTÉ.ie (2018) "Winning Streak". Available at [Raidió Teilifís Éireann](https
 \
 Wikipedia (2022, last edit). "Survivorship Bias". Available at [Wikipedia](https://en.wikipedia.org/wiki/Survivorship_bias) (Accessed 3rd November, 2022).
 
-### **Exercise 5b - Standard Deviation**
+### **Exercise 5b - Bessel's Correction**
 
 **Task**: Show that the difference between the standard deviation calculations is greatest for small sample sizes.
 
 **References**:
+
+Hall, B. (2020) "The Reasoning Behind Bessel's Correction". Available at [Towards Data Science (Medium)](https://towardsdatascience.com/the-reasoning-behind-bessels-correction-n-1-eeea25ec9bc9) (Accessed 11th December, 2022).
+\
+Hello Leo (2021) "Normal Distribution - Why divide by (n-1)?". Available at [YouTube](https://www.youtube.com/watch?v=YkXSjFY2mHM) (Accessed 11th December, 2022).
+\
+Khan Academy (2012) "Review and Intuition: Why we divide by n-1 for the unbiased sample". Available at [YouTube](https://www.youtube.com/watch?v=KkaU2ur3Ymw) (Accessed 14th November, 2022).
+\
+GeeksForGeeks (2018) "numpy.mean() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-mean-in-python/) (Accessed 10th December, 2022).
 
 ### **Exercise 6a - Morley Box Plots**
 
