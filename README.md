@@ -126,7 +126,7 @@ GeeksForGeeks (2022) "Split Pandas Dataframe by Column Value". Available at [Gee
 \
 StackOverflow (2012) "Using a loop in Python to name variables". Available at [StackOverflow](https://stackoverflow.com/questions/13603215/using-a-loop-in-python-to-name-variables) (Accessed 17th December, 2022).
 
-### **Exercise 6b - Fisher's Irish Box Plots**
+### **Exercise 6b - Fisher's Iris Box Plots**
 
 **Task**: Create box plots for all of the numerical variables in Fisher's Iris data set.
 
