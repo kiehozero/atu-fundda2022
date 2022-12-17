@@ -116,15 +116,27 @@ Khan Academy (2012) "Review and Intuition: Why we divide by n-1 for the unbiased
 \
 GeeksForGeeks (2018) "numpy.mean() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-mean-in-python/) (Accessed 10th December, 2022).
 
-### **Exercise 6a - Morley Box Plots**
+### **Exercise 6a - Box Plots**
+
+**Task**: Create box plots on a single set of axes for all five experiments in the Morley data set.
 
 **References**:
+
+GeeksForGeeks (2022) "Split Pandas Dataframe by Column Value". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/split-pandas-dataframe-by-column-value/) (Accessed 16th December, 2022).
+\
+StackOverflow (2012) "Using a loop in Python to name variables". Available at [StackOverflow](https://stackoverflow.com/questions/13603215/using-a-loop-in-python-to-name-variables) (Accessed 17th December, 2022).
 
 ### **Exercise 6b - Fisher's Irish Box Plots**
 
+**Task**: Create box plots for all of the numerical variables in Fisher's Iris data set.
+
 **References**:
 
+GeeksForGeeks (2022) "Box Plot in Python using Matplotlib". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/) (Accessed 17th December, 2022).
+
 ### **Exercise 6c - Proportionality**
+
+**Task**: Adapt the above code and plots so that the overall plot is inversely propertional and the individual groups are directly proportional.
 
 **References**:
 
