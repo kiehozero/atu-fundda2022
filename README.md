@@ -140,6 +140,22 @@ GeeksForGeeks (2022) "Box Plot in Python using Matplotlib". Available at [GeeksF
 
 **References**:
 
+## Exercise 7a - Replacing Characters Using Regular Expressions
+
+**Task**: Write a Python function to remove all non-alphanumeric characters from a string.
+
+**References**:
+
+W3Schools (2022) "Python RegEx". Available at [W3Schools](https://www.w3schools.com/python/python_regex.asp#sub) (Accessed 18th December, 2022).
+\
+Wikipedia (2022, last edit) "F♯ A♯ ∞". Available at [Wikipedia](https://en.wikipedia.org/wiki/F%E2%99%AF_A%E2%99%AF_%E2%88%9E) (Accessed 18th December, 2022).
+
+## Exercise 7b - Editing Datasets Using Regular Expressions
+
+**Task**: Adapt the above code to capitalise the first letter of the iris species, using regular expressions.
+
+**References**:
+
 ## **Normal Distribution**
 
 **References**:
