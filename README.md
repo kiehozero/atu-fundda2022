@@ -156,6 +156,8 @@ Wikipedia (2022, last edit) "F♯ A♯ ∞". Available at [Wikipedia](https://en
 
 **References**:
 
+StackOverflow (2009) "Given a URL to a text file, what is the simplest way to read the contents of the text file?" Available at [StackOverflow](https://stackoverflow.com/a/1393367) (Accessed 19th December, 2022).
+
 ## **Normal Distribution**
 
 **References**:
