@@ -156,7 +156,13 @@ Wikipedia (2022, last edit) "F♯ A♯ ∞". Available at [Wikipedia](https://en
 
 **References**:
 
+GeeksForGeeks (2022) "Python String Title Method". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/title-in-python/) (Accessed 20th December, 2022).
+\
 StackOverflow (2009) "Given a URL to a text file, what is the simplest way to read the contents of the text file?" Available at [StackOverflow](https://stackoverflow.com/a/1393367) (Accessed 19th December, 2022).
+\
+StackOverflow (2017) "Split a string by the position of the character". Available at [StackOverflow](https://stackoverflow.com/questions/46766530/python-split-a-string-by-the-position-of-a-character) (Accessed 20th December, 2022).
+\
+[W3Schools] (2022) "Python RegEx: The search() function". Available at [W3Schools](https://www.w3schools.com/python/python_regex.asp) (Accessed 20th December, 2022).
 
 ## **Normal Distribution**
 
