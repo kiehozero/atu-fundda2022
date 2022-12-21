@@ -54,7 +54,13 @@ CueMath (2022) "Pascal's Triangle". Available at [CueMath](https://www.cuemath.c
 \
 GeeksForGeeks (2022) "Python - math.comb() method". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/python-math-comb-method/) (Accessed 15th November, 2022).
 \
+Gregersen, E. (2016) "Factorial". Available at [Encyclopædia Britannica](https://www.britannica.com/science/factorial) (Accessed 21st December, 2022).
+\
+Math Documentation (2022) "math - Mathematical Functions: Number-theoretic and representation functions". Available at [Python.org](https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions) (Accessed 20th December, 2022).
+\
 Ratemi, W.M. (2015) "The Mathematical Secrets of Pascal's Triangle". Available at [YouTube](https://www.youtube.com/watch?v=XMriWTvPXHI) (Accessed 20th December, 2022).
+\
+Story of Mathematics (2022) "Combinations - Explanation and Examples". Available at [SOM](https://www.storyofmathematics.com/combinations/) (Accessed 15th November, 2022).
 \
 Thamrongpairoj, K.S. (2019) "What is _n_ choose _k_? formula, examples, Pascal's triangles". Available at [YouTube](https://www.youtube.com/watch?v=dvLMIfHleM8) (Accessed 26th November, 2022).
 \
