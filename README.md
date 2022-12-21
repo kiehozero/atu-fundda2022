@@ -42,11 +42,23 @@ W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://ww
 \
 Wikipedia (2022, last edit) "Logarithm: Graph of the Logarithm Function". Available at [Wikipedia](https://en.wikipedia.org/wiki/Logarithm#Graph_of_the_logarithm_function) (Accessed 26th November, 2022).
 
-### **Exercise 3a - Randomness**
+### **Exercise 3a - Combinations**
 
 **Task**: It is somewhat interesting that (5*4*3*2*1) perfectly divides (10*9*8*7*6), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be (10*9*8*7)/(4*3*2*1). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
 
 **References**:
+
+CueMath (2022) "n Choose k Formula". Available at [CueMath](https://www.cuemath.com/n-choose-k-formula/) (Accessed 15th November, 2022).
+\
+CueMath (2022) "Pascal's Triangle". Available at [CueMath](https://www.cuemath.com/algebra/pascals-triangle/) (Accessed 20th December, 2022).
+\
+GeeksForGeeks (2022) "Python - math.comb() method". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/python-math-comb-method/) (Accessed 15th November, 2022).
+\
+Ratemi, W.M. (2015) "The Mathematical Secrets of Pascal's Triangle". Available at [YouTube](https://www.youtube.com/watch?v=XMriWTvPXHI) (Accessed 20th December, 2022).
+\
+Thamrongpairoj, K.S. (2019) "What is _n_ choose _k_? formula, examples, Pascal's triangles". Available at [YouTube](https://www.youtube.com/watch?v=dvLMIfHleM8) (Accessed 26th November, 2022).
+\
+Wikipedia (2022, last edit) "Binomial Coefficient". Available at [Wikipedia](https://en.wikipedia.org/wiki/Binomial_coefficient) (Accessed 26th November, 2022).
 
 ### **Exercise 3b - Randomness**
 
@@ -66,7 +78,7 @@ Bobbitt, Z. (2021) "An Introduction to the Triangular Distribution". Available a
 \
 Frost, J. (2017) "Degrees of Freedom in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/hypothesis-testing/degrees-freedom-statistics/) (Accessed 15th November, 2022).
 \
-MatPlotLib Documentation (2022) "matplotlib.pyplot.subplot". Available at [MatPlotLib.org](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot.html) (Accessed 15th November, 2022)
+MatPlotLib Documentation (2022) "matplotlib.pyplot.subplot". Available at [MatPlotLib.org](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot.html) (Accessed 15th November, 2022).
 \
 NumPy Documentation (2022) "numpy.random.Generator.chisquare". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.chisquare.html) (Accessed 15th November, 2022).
 \
