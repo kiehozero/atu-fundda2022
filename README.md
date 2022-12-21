@@ -4,6 +4,8 @@ This repository serves as my assessment for the Fundamentals of Data Analysis mo
 
 I have stored any notebooks or PDF files that we received as part of the course in the [Materials](materials) section of this repository, just so I had this information to hand while I was working through it, and also so that I could easily reference any of the lecturer's remarks. Some of these are heavily annotated by myself, while others are less so; in any case, these are equivalent to any margin scribbles I would have done in a book-based module.
 
+When I was completing exercises, I would mark incomplete files with an INC suffix to remind myself of the amount of work outstanding. I then renamed them once I was finished with an exercise; the obvious effect this has is that the completed files will have very few commits on them as they are new submissions to GitHub. If you go through the history of the repo as a whole, you will see these files appear through the submission history. This is probably a way of marking completed and in-progress files that I won't be using going forward!
+
 Special thanks to my friend Richard Bilsborough who has studied undergraduate economics and answered a ton of my questions, particular on entropy and logarithms. He provided the NIST article that is referenced in the second exercise.
 
 ## Using Jupyter Notebooks
