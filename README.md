@@ -12,6 +12,8 @@ Special thanks to my friend Richard Bilsborough who has studied undergraduate ec
 
 All of the exercises are completed using [Jupyter Notebook](https://jupyter.org/), a free package that comes pre-installed with Anaconda. Launched from Anaconda Navigator or using the _jupyter notebook_ command in your preferred CLI, Notebook is a browser-based tool that allows for quick setup and easy annotation of code with text and images outside of the code itself. This allows for more thorough explanations than traditional IDEs offer.
 
+***
+
 ## Exercises
 
 ### **Exercise 1 - Information**
@@ -172,7 +174,7 @@ NumPy Documentation (2020) "numpy.ndarray.flatten() function". Available at [Num
 \
 CueMath (2022) "Direct Proportion". Available at [CueMath](https://www.cuemath.com/commercial-math/direct-proportion/) (Accessed 16th December, 2022).
 
-## Exercise 7a - Replacing Characters Using Regular Expressions
+### **Exercise 7a - Replacing Characters Using Regular Expressions**
 
 **Task**: Write a Python function to remove all non-alphanumeric characters from a string.
 
@@ -182,7 +184,7 @@ W3Schools (2022) "Python RegEx". Available at [W3Schools](https://www.w3schools.
 \
 Wikipedia (2022, last edit) "F♯ A♯ ∞". Available at [Wikipedia](https://en.wikipedia.org/wiki/F%E2%99%AF_A%E2%99%AF_%E2%88%9E) (Accessed 18th December, 2022).
 
-## Exercise 7b - Editing Datasets Using Regular Expressions
+### **Exercise 7b - Editing Datasets Using Regular Expressions**
 
 **Task**: Adapt the above code to capitalise the first letter of the iris species, using regular expressions.
 
@@ -196,6 +198,8 @@ StackOverflow (2017) "Split a string by the position of the character". Availabl
 \
 W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools](https://www.w3schools.com/python/python_regex.asp) (Accessed 20th December, 2022).
 
-## **Normal Distribution**
+***
+
+## Normal Distribution
 
 **References**:
