@@ -46,7 +46,7 @@ Wikipedia (2022, last edit) "Logarithm: Graph of the Logarithm Function". Availa
 
 ### **Exercise 3a - Combinations**
 
-**Task**: It is somewhat interesting that (5*4*3*2*1) perfectly divides (10*9*8*7*6), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be (10*9*8*7)/(4*3*2*1). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
+**Task**: It is somewhat interesting that (5x4x3x2x1) perfectly divides (10x9x8x7x6), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be (10x9x8x7)/(4x3x2x1). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
 
 **References**:
 
@@ -165,6 +165,10 @@ GeeksForGeeks (2022) "Box Plot in Python using Matplotlib". Available at [GeeksF
 **Task**: Adapt the above code and plots so that the overall plot is inversely propertional and the individual groups are directly proportional.
 
 **References**:
+
+BBC Bitesize (2022) "Direct and Inverse Proportion". Available at [BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zqd6srd/revision/3) (Accessed 16th December, 2022).
+\
+CueMath (2022) "Direct Proportion". Available at [CueMath](https://www.cuemath.com/commercial-math/direct-proportion/) (Accessed 16th December, 2022).
 
 ## Exercise 7a - Replacing Characters Using Regular Expressions
 
