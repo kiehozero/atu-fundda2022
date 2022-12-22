@@ -6,11 +6,11 @@ I have stored any notebooks or PDF files that we received as part of the course 
 
 When I was completing exercises, I would mark incomplete files with an INC suffix to remind myself of the amount of work outstanding. I then renamed them once I was finished with an exercise; the obvious effect this has is that the completed files will have very few commits on them as they are new submissions to GitHub. If you go through the history of the repo as a whole, you will see these files appear through the submission history. This is probably a way of marking completed and in-progress files that I won't be using going forward!
 
-Special thanks to my friend Richard Bilsborough who has studied undergraduate economics and answered a ton of my questions, particular on entropy and logarithms. He provided the NIST article that is referenced in the second exercise.
+Special thanks to my friend Richard Bilsborough who has studied undergraduate economics and answered a ton of my questions on entropy and logarithms. He provided the NIST article that is referenced in the second exercise.
 
 ## Using Jupyter Notebooks
 
-- quick notes on how to open Jupyter Notebooks, common commands and features (Restart and run all, changing cells from markdown to code, etc.)
+All of the exercises are completed using [Jupyter Notebook](https://jupyter.org/), a free package that comes pre-installed with Anaconda. Launched from Anaconda Navigator or using the _jupyter notebook_ command in your preferred CLI, Notebook is a browser-based tool that allows for quick setup and easy annotation of code with text and images outside of the code itself. This allows for more thorough explanations than traditional IDEs offer.
 
 ## Exercises
 
@@ -52,8 +52,6 @@ Wikipedia (2022, last edit) "Logarithm: Graph of the Logarithm Function". Availa
 
 CueMath (2022) "n Choose k Formula". Available at [CueMath](https://www.cuemath.com/n-choose-k-formula/) (Accessed 15th November, 2022).
 \
-CueMath (2022) "Pascal's Triangle". Available at [CueMath](https://www.cuemath.com/algebra/pascals-triangle/) (Accessed 20th December, 2022).
-\
 GeeksForGeeks (2022) "Python - math.comb() method". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/python-math-comb-method/) (Accessed 15th November, 2022).
 \
 Gregersen, E. (2016) "Factorial". Available at [Encyclopædia Britannica](https://www.britannica.com/science/factorial) (Accessed 21st December, 2022).
@@ -66,13 +64,21 @@ Story of Mathematics (2022) "Combinations - Explanation and Examples". Available
 \
 Thamrongpairoj, K.S. (2019) "What is _n_ choose _k_? formula, examples, Pascal's triangles". Available at [YouTube](https://www.youtube.com/watch?v=dvLMIfHleM8) (Accessed 26th November, 2022).
 \
+W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://www.w3schools.com/python/ref_math_log.asp) (Accessed 26th November, 2022).
+\
 Wikipedia (2022, last edit) "Binomial Coefficient". Available at [Wikipedia](https://en.wikipedia.org/wiki/Binomial_coefficient) (Accessed 26th November, 2022).
 
-### **Exercise 3b - Randomness**
+### **Exercise 3b - Pascal's Triangle**
 
 **Task**: Note that there are the same number of way to get 4 tails as there are to get 4 heads. Explain why this is.
 
 **References**:
+
+CueMath (2022) "Pascal's Triangle". Available at [CueMath](https://www.cuemath.com/algebra/pascals-triangle/) (Accessed 20th December, 2022).
+\
+Ratemi, W.M. (2015) "The Mathematical Secrets of Pascal's Triangle". Available at [YouTube](https://www.youtube.com/watch?v=XMriWTvPXHI) (Accessed 20th December, 2022).
+\
+W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://www.w3schools.com/python/ref_math_log.asp) (Accessed 26th November, 2022).
 
 ### **Exercise 4 - Distributions**
 
@@ -136,7 +142,7 @@ Khan Academy (2012) "Review and Intuition: Why we divide by n-1 for the unbiased
 \
 GeeksForGeeks (2018) "numpy.mean() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-mean-in-python/) (Accessed 10th December, 2022).
 
-### **Exercise 6a - Box Plots**
+### **Exercise 6a - Morley's Box Plots**
 
 **Task**: Create box plots on a single set of axes for all five experiments in the Morley data set.
 
@@ -182,7 +188,7 @@ StackOverflow (2009) "Given a URL to a text file, what is the simplest way to re
 \
 StackOverflow (2017) "Split a string by the position of the character". Available at [StackOverflow](https://stackoverflow.com/questions/46766530/python-split-a-string-by-the-position-of-a-character) (Accessed 20th December, 2022).
 \
-[W3Schools] (2022) "Python RegEx: The search() function". Available at [W3Schools](https://www.w3schools.com/python/python_regex.asp) (Accessed 20th December, 2022).
+W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools](https://www.w3schools.com/python/python_regex.asp) (Accessed 20th December, 2022).
 
 ## **Normal Distribution**
 
