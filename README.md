@@ -168,6 +168,8 @@ GeeksForGeeks (2022) "Box Plot in Python using Matplotlib". Available at [GeeksF
 
 BBC Bitesize (2022) "Direct and Inverse Proportion". Available at [BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zqd6srd/revision/3) (Accessed 16th December, 2022).
 \
+NumPy Documentation (2020) "numpy.ndarray.flatten() function". Available at [NumPy.org](https://www.geeksforgeeks.org/numpy-ndarray-flatten-function-python/) (Accessed 22nd December, 2022).
+\
 CueMath (2022) "Direct Proportion". Available at [CueMath](https://www.cuemath.com/commercial-math/direct-proportion/) (Accessed 16th December, 2022).
 
 ## Exercise 7a - Replacing Characters Using Regular Expressions
