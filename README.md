@@ -22,7 +22,9 @@ All of the exercises are completed using [Jupyter Notebook](https://jupyter.org/
 
 **References**:
 
-W3Schools (2002) "Python - Nested Dictionaries". Available at [W3Schools](https://www.w3schools.com/python/python_dictionaries_nested.asp) (Accessed 28th December, 2022).
+W3Schools (2022) "Python - Nested Dictionaries". Available at [W3Schools](https://www.w3schools.com/python/python_dictionaries_nested.asp) (Accessed 28th December, 2022).
+\
+W3Schools (2022) "Python - Slice Strings". Available at [W3Schools](https://www.w3schools.com/python/gloss_python_string_slice.asp) (Accessed 28th December, 2022).
 
 ### **Ex. 2 - Logarithms**
 
