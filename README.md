@@ -16,15 +16,15 @@ All of the exercises are completed using [Jupyter Notebook](https://jupyter.org/
 
 ## Exercises
 
-### **Exercise 1 - Information**
+### **Ex. 1 - Information**
 
 **Task**: Adapt the code in Ian's initial tutorials to generate a 1000 character-long string with weights based on the previous two characters.
 
 **References**:
 
-N/A
+W3Schools (2002) "Python - Nested Dictionaries". Available at [W3Schools](https://www.w3schools.com/python/python_dictionaries_nested.asp) (Accessed 28th December, 2022).
 
-### **Exercise 2 - Logarithms**
+### **Ex. 2 - Logarithms**
 
 **Task**: Explain why the log of zero is undefined.
 
@@ -48,7 +48,7 @@ W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://ww
 \
 Wikipedia (2022, last edit) "Logarithm: Graph of the Logarithm Function". Available at [Wikipedia](https://en.wikipedia.org/wiki/Logarithm#Graph_of_the_logarithm_function) (Accessed 26th November, 2022).
 
-### **Exercise 3a - Combinations**
+### Ex. 3a - Combinations**
 
 **Task**: It is somewhat interesting that (5x4x3x2x1) perfectly divides (10x9x8x7x6), there is no remainder. If we only wanted exactly four heads as opposed to five, the equivalent calculation would be (10x9x8x7)/(4x3x2x1). Does that evenly divide too? What is the formula in general? Does it always come out as a positive whole number?
 
@@ -72,7 +72,7 @@ W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://ww
 \
 Wikipedia (2022, last edit) "Binomial Coefficient". Available at [Wikipedia](https://en.wikipedia.org/wiki/Binomial_coefficient) (Accessed 26th November, 2022).
 
-### **Exercise 3b - Pascal's Triangle**
+### **Ex. 3b - Pascal's Triangle**
 
 **Task**: Note that there are the same number of way to get 4 tails as there are to get 4 heads. Explain why this is.
 
@@ -84,7 +84,7 @@ Ratemi, W.M. (2015) "The Mathematical Secrets of Pascal's Triangle". Available a
 \
 W3Schools (2022) "Python math.log() Method". Available at [W3Schools](https://www.w3schools.com/python/ref_math_log.asp) (Accessed 26th November, 2022).
 
-### **Exercise 4 - Distributions**
+### **Ex. 4 - Distributions**
 
 **Task**: Plot bar charts of histograms of any three different distributions listed at this [link](https://numpy.org/doc/stable/reference/random/generator.html#distributions).
 
@@ -118,7 +118,7 @@ Wikipedia (2022, last edit) "Triangular Distribution". Available at [Wikipedia](
 \
 Zangre, A. (2019) "Discrete vs. Continuous Data - What's the Difference?", [G2.com](https://www.g2.com/articles/discrete-vs-continuous-data) (Accessed 3rd November, 2022).
 
-### **Exercise 5a - Cognitive Bias**
+### **Ex. 5a - Cognitive Bias**
 
 **Task**: Give three real-world examples of different types of cognitive bias.
 
@@ -132,7 +132,7 @@ RTÉ.ie (2018) "Winning Streak". Available at [Raidió Teilifís Éireann](https
 \
 Wikipedia (2022, last edit). "Survivorship Bias". Available at [Wikipedia](https://en.wikipedia.org/wiki/Survivorship_bias) (Accessed 3rd November, 2022).
 
-### **Exercise 5b - Bessel's Correction**
+### **Ex. 5b - Bessel's Correction**
 
 **Task**: Show that the difference between the standard deviation calculations is greatest for small sample sizes.
 
@@ -146,7 +146,7 @@ Khan Academy (2012) "Review and Intuition: Why we divide by n-1 for the unbiased
 \
 GeeksForGeeks (2018) "numpy.mean() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-mean-in-python/) (Accessed 10th December, 2022).
 
-### **Exercise 6a - Morley's Box Plots**
+### **Ex. 6a - Morley's Box Plots**
 
 **Task**: Create box plots on a single set of axes for all five experiments in the Morley data set.
 
@@ -156,7 +156,7 @@ GeeksForGeeks (2022) "Split Pandas Dataframe by Column Value". Available at [Gee
 \
 StackOverflow (2012) "Using a loop in Python to name variables". Available at [StackOverflow](https://stackoverflow.com/questions/13603215/using-a-loop-in-python-to-name-variables) (Accessed 17th December, 2022).
 
-### **Exercise 6b - Fisher's Iris Box Plots**
+### **Ex. 6b - Fisher's Iris Box Plots**
 
 **Task**: Create box plots for all of the numerical variables in Fisher's Iris data set.
 
@@ -164,7 +164,7 @@ StackOverflow (2012) "Using a loop in Python to name variables". Available at [S
 
 GeeksForGeeks (2022) "Box Plot in Python using Matplotlib". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/) (Accessed 17th December, 2022).
 
-### **Exercise 6c - Proportionality**
+### **Ex. 6c - Proportionality**
 
 **Task**: Adapt the above code and plots so that the overall plot is inversely propertional and the individual groups are directly proportional.
 
@@ -176,7 +176,7 @@ NumPy Documentation (2020) "numpy.ndarray.flatten() function". Available at [Num
 \
 CueMath (2022) "Direct Proportion". Available at [CueMath](https://www.cuemath.com/commercial-math/direct-proportion/) (Accessed 16th December, 2022).
 
-### **Exercise 7a - Replacing Characters Using Regular Expressions**
+### **Ex. 7a - Replacing Characters Using Regular Expressions**
 
 **Task**: Write a Python function to remove all non-alphanumeric characters from a string.
 
@@ -186,7 +186,7 @@ W3Schools (2022) "Python RegEx". Available at [W3Schools](https://www.w3schools.
 \
 Wikipedia (2022, last edit) "F♯ A♯ ∞". Available at [Wikipedia](https://en.wikipedia.org/wiki/F%E2%99%AF_A%E2%99%AF_%E2%88%9E) (Accessed 18th December, 2022).
 
-### **Exercise 7b - Editing Datasets Using Regular Expressions**
+### **Ex. 7b - Editing Datasets Using Regular Expressions**
 
 **Task**: Adapt the above code to capitalise the first letter of the iris species, using regular expressions.
 
