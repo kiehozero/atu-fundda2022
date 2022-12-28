@@ -22,6 +22,8 @@ All of the exercises are completed using [Jupyter Notebook](https://jupyter.org/
 
 **References**:
 
+N/A
+
 ### **Exercise 2 - Logarithms**
 
 **Task**: Explain why the log of zero is undefined.
