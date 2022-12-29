@@ -206,4 +206,12 @@ W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools]
 
 ## Normal Distribution
 
+**Task**: Create a notebook about the normal distribution. Define and explain the main concepts. Pitch the notebook at your classmates. Use visuals like plots to explain concepts.
+
 **References**:
+
+Augustyn, A. (2022) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
+\
+Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
+\
+Wikipedia (2022, last edit) "Normal Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution) (Accessed 20th December, 2022).
