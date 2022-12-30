@@ -214,4 +214,8 @@ Augustyn, A. (2022) "Normal Distribution". Available at [Encyclopædia Britannic
 \
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
 \
+Starmer, J. (2017) "The Normal Distribution, Clearly Explained". [Available at StatQuest (YouTube)](https://www.youtube.com/watch?v=rzFX5NWojp0) (Accessed 20th December, 2022).
+\
+Starmer, J. (2018) "The Central Limit Theorem, Clearly Explained". [Available at StatQuest (YouTube)](https://www.youtube.com/watch?v=YAlJCEDH2uY) (Accessed 30th December, 2022).
+\
 Wikipedia (2022, last edit) "Normal Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution) (Accessed 20th December, 2022).
