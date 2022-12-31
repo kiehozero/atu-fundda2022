@@ -210,6 +210,8 @@ W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools]
 
 **References**:
 
+Ace Tutors (2021) "Normal Distribution Explained with Examples". Available at [YouTube](https://www.youtube.com/watch?v=xI9ZHGOSaCg) (Accessed 31st December, 2022).
+\
 Augustyn, A. (2022) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
 \
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
