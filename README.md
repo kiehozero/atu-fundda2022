@@ -208,17 +208,22 @@ W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools]
 
 **Task**: Create a notebook about the normal distribution. Define and explain the main concepts. Pitch the notebook at your classmates. Use visuals like plots to explain concepts.
 
+**Bugs**: I was trying to plot lots of subplots on a single graph in explaining the shape of different distributions. In doing so I utterly ruined the view for a while, but luckily the link below to their documentation provided a quick reset.
+
 **References**:
 
 Ace Tutors (2021) "Normal Distribution Explained with Examples". Available at [YouTube](https://www.youtube.com/watch?v=xI9ZHGOSaCg) (Accessed 31st December, 2022).
 \
 Augustyn, A. (2022) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
 \
+GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-random-standard_t-in-python/) (Accessed 1st January, 2023).
+\
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
 \
-Starmer, J. (2017) "The Normal Distribution, Clearly Explained". [Available at StatQuest (YouTube)](https://www.youtube.com/watch?v=rzFX5NWojp0) (Accessed 20th December, 2022).
+Matplotlib Documentation (2022) "matplot.pyplot.rcdefaults()". Available at [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rcdefaults.html) (Accessed 1st January, 2023).
+Starmer, J. (2017) "The Normal Distribution, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=rzFX5NWojp0) (Accessed 20th December, 2022).
 \
-Starmer, J. (2018) "The Central Limit Theorem, Clearly Explained". [Available at StatQuest (YouTube)](https://www.youtube.com/watch?v=YAlJCEDH2uY) (Accessed 30th December, 2022).
+Starmer, J. (2018) "The Central Limit Theorem, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=YAlJCEDH2uY) (Accessed 30th December, 2022).
 \
 Wikipedia (2022, last edit) "Cauchy Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Cauchy_distribution) (Accessed 1st January, 2023).
 \
