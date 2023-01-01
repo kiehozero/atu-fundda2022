@@ -220,4 +220,10 @@ Starmer, J. (2017) "The Normal Distribution, Clearly Explained". [Available at S
 \
 Starmer, J. (2018) "The Central Limit Theorem, Clearly Explained". [Available at StatQuest (YouTube)](https://www.youtube.com/watch?v=YAlJCEDH2uY) (Accessed 30th December, 2022).
 \
+Wikipedia (2022, last edit) "Cauchy Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Cauchy_distribution) (Accessed 1st January, 2023).
+\
+Wikipedia (2022, last edit) "Logistic Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Logistic_distribution) (Accessed 1st January, 2023).
+\
 Wikipedia (2022, last edit) "Normal Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution) (Accessed 20th December, 2022).
+\
+Wikipedia (2022, last edit) "Student's _t_ Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Student%27s_t-distribution) (Accessed 1st January, 2023).
