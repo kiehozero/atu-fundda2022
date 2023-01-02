@@ -208,19 +208,32 @@ W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools]
 
 **Task**: Create a notebook about the normal distribution. Define and explain the main concepts. Pitch the notebook at your classmates. Use visuals like plots to explain concepts.
 
-**Bugs**: I was trying to plot lots of subplots on a single graph in explaining the shape of different distributions. In doing so I utterly ruined the view for a while, but luckily the link below to their documentation provided a quick reset.
+**Bugs**:
+\
+1 - I was trying to plot lots of subplots on a single graph in explaining the shape of different distributions. In doing so I utterly ruined the view for a while, but luckily the link below to their documentation provided a quick reset.
+\
+2 - I attempted to recreate the code used to create the normal distribution PDFs on Wikipedia. I didn't want to take the exact code, but rather amend the condensed version Ian provided in an earlier notebook. It took me way too long to realise that the make_gauss function the original user created divided everything by 1. I'd earlier gone down a rabbit hole of trying to strategically place sqrt() functions from NumPy inside the density function, rather than in the list, of course with no success.
 
 **References**:
 
 Ace Tutors (2021) "Normal Distribution Explained with Examples". Available at [YouTube](https://www.youtube.com/watch?v=xI9ZHGOSaCg) (Accessed 31st December, 2022).
 \
-Augustyn, A. (2022) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
+Anonymous (1998) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
 \
 GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-random-standard_t-in-python/) (Accessed 1st January, 2023).
 \
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
 \
 Matplotlib Documentation (2022) "matplot.pyplot.rcdefaults()". Available at [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rcdefaults.html) (Accessed 1st January, 2023).
+\
+NumPy Documentation (2022) "numpy.random.normal". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html) (Accessed 15th November, 2022).
+\
+NumPy Documentation (2022) "numpy.random.logistic". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.logistic.html) (Accessed 1st January, 2023).
+\
+NumPy Documentation (2022) "numpy.random.standard_cauchy". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.standard_cauchy.html) (Accessed 1st January, 2023).
+\
+NumPy Documentation (2022) "numpy.random.standard_t". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.standard_t.html) (Accessed 1st January, 2023).
+\
 Starmer, J. (2017) "The Normal Distribution, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=rzFX5NWojp0) (Accessed 20th December, 2022).
 \
 Starmer, J. (2018) "The Central Limit Theorem, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=YAlJCEDH2uY) (Accessed 30th December, 2022).
@@ -230,5 +243,7 @@ Wikipedia (2022, last edit) "Cauchy Distribution". Available at [Wikipedia](http
 Wikipedia (2022, last edit) "Logistic Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Logistic_distribution) (Accessed 1st January, 2023).
 \
 Wikipedia (2022, last edit) "Normal Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution) (Accessed 20th December, 2022).
+\
+Wikipedia (2016) "A selection of Normal Distribution Probability Distribution Functions". Available at [Wikipedia](https://commons.wikimedia.org/wiki/File:Normal_Distribution_PDF.svg) (Accessed 1st January, 2023).
 \
 Wikipedia (2022, last edit) "Student's _t_ Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Student%27s_t-distribution) (Accessed 1st January, 2023).
