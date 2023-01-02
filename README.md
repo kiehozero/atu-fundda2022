@@ -226,6 +226,8 @@ Andersson, E. (2022) "Digits of Pi". Available at [Eve Andersson](http://www.eve
 \
 Anonymous (1998) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
 \
+Chen, J. (2022) "Normal Distribution: What It Is, Properties, Uses and Formula". Available at [Investopedia](https://www.investopedia.com/terms/n/normaldistribution.asp) (Accessed 15th November, 2022).
+\
 GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-random-standard_t-in-python/) (Accessed 1st January, 2023).
 \
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
