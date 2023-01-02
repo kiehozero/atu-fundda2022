@@ -40,6 +40,8 @@ Kelly, Steve (2012) "Logarithms, Explained". Available at [TED-Ed on Youtube](ht
 \
 National Institute of Standards and Technology (2017) "A Tutorial introduction to the ideas behind Normalized cross-entropy and the information-theoretic idea of Entropy". Available at [NIST](https://www.nist.gov/system/files/documents/2017/11/30/nce.pdf) (Accessed 26th November, 2022).
 \
+Pierce, R. (2022) "_e_ (Euler's Number)". Available at [MathsIsFun](https://www.mathsisfun.com/numbers/e-eulers-number.html) (Accessed 2nd January, 2023).
+\git add
 RapidTables (2022) "Logarithm of Zero". Available at [RapidTables](https://www.rapidtables.com/math/algebra/logarithm/Logarithm_of_0.html) (Accessed 26th November, 2022).
 \
 StackExchange (2012) "Why are logarithms not defined for 0 or negatives?". Available at [StackExchange Mathematics](https://math.stackexchange.com/questions/116622/why-are-logarithms-not-defined-for-0-and-negatives) (Accessed 26th November, 2022).
