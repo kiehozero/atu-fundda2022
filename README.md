@@ -220,6 +220,8 @@ W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools]
 
 Ace Tutors (2021) "Normal Distribution Explained with Examples". Available at [YouTube](https://www.youtube.com/watch?v=xI9ZHGOSaCg) (Accessed 31st December, 2022).
 \
+Andersson, E. (2022) "Digits of Pi". Available at [Eve Andersson](http://www.eveandersson.com/pi/digits/) (Accessed 2nd January, 2023).
+\
 Anonymous (1998) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
 \
 GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-random-standard_t-in-python/) (Accessed 1st January, 2023).
@@ -227,6 +229,8 @@ GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksF
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
 \
 Matplotlib Documentation (2022) "matplot.pyplot.rcdefaults()". Available at [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rcdefaults.html) (Accessed 1st January, 2023).
+\
+NumPy Documentation (2022) "Constants". Available at [NumPy](https://numpy.org/doc/stable/reference/constants.html) (Accessed 2nd January, 2023).
 \
 NumPy Documentation (2022) "numpy.random.normal". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html) (Accessed 15th November, 2022).
 \
