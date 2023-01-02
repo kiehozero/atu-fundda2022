@@ -216,7 +216,7 @@ W3Schools (2022) "Python RegEx: The search() function". Available at [W3Schools]
 \
 2 - I attempted to recreate the code used to create the normal distribution PDFs on Wikipedia. I didn't want to take the exact code, but rather amend the condensed version Ian provided in an earlier notebook. It took me way too long to realise that the make_gauss function the original user created divided everything by 1. I'd earlier gone down a rabbit hole of trying to strategically place sqrt() functions from NumPy inside the density function, rather than in the list, of course with no success.
 \
-3 - In the course of writing an explanation for the density function and in plotting an equivalent of the Wikipedia PDF plots, I noticed a difference in the LaTeX equation used there, and in what was provided in the course material. With some quick testing I realised that they produced the same results, so I have indicated where I have sourced the density calculation from each time it occurs.
+3 - In the course of writing an explanation for the density function and in plotting an equivalent of the Wikipedia PDF plots, I noticed a difference in the LaTeX equation used there, and in what was provided in the course material. With some quick testing I realised that they produced the same results, so I have indicated where I have sourced the density calculation from each time it occurs. The exact commit where I tested these and removed them from the code is [here](https://github.com/kiehozero/atu-fundda2022/commit/f7e0f60ea2299123f01bb2f304df747db4ede49c).
 
 **References**:
 
