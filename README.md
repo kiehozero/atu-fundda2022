@@ -234,6 +234,10 @@ Matplotlib Documentation (2022) "matplot.pyplot.rcdefaults()". Available at [Mat
 \
 NumPy Documentation (2022) "Constants". Available at [NumPy](https://numpy.org/doc/stable/reference/constants.html) (Accessed 2nd January, 2023).
 \
+NumPy Documentation (2022) "numpy.linspace". Available at [NumPy](https://numpy.org/doc/stable/reference/generated/numpy.exp.html) (Accessed 2nd January, 2023).
+\
+NumPy Documentation (2022) "numpy.exp". Available at [NumPy](https://numpy.org/doc/stable/reference/generated/numpy.linspace.html) (Accessed 2nd January, 2023).
+\
 NumPy Documentation (2022) "numpy.random.normal". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html) (Accessed 15th November, 2022).
 \
 NumPy Documentation (2022) "numpy.random.logistic". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.logistic.html) (Accessed 1st January, 2023).
