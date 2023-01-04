@@ -226,6 +226,8 @@ Andersson, E. (2022) "Digits of Pi". Available at [Eve Andersson](http://www.eve
 \
 Anonymous (1998) "Normal Distribution". Available at [Encyclopædia Britannica](https://www.britannica.com/topic/normal-distribution) (Accessed 20th December, 2022).
 \
+Bhandari, P. (2020) "Normal Distribution: Examples, Formulas and Uses". Available at [Scribbr](https://www.scribbr.com/statistics/normal-distribution/) (Accessed 27th November, 2022).
+\
 Chen, J. (2022) "Normal Distribution: What It Is, Properties, Uses and Formula". Available at [Investopedia](https://www.investopedia.com/terms/n/normaldistribution.asp) (Accessed 15th November, 2022).
 \
 GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/numpy-random-standard_t-in-python/) (Accessed 1st January, 2023).
@@ -233,6 +235,8 @@ GeeksforGeeks (2020) "numpy.random.standard_t() in Python". Available at [GeeksF
 Frost, J. (2018) "Normal Distribution in Statistics". Available at [Statistics by Jim](https://statisticsbyjim.com/basics/normal-distribution/) (Accessed 21st December, 2022).
 \
 Matplotlib Documentation (2022) "matplot.pyplot.rcdefaults()". Available at [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rcdefaults.html) (Accessed 1st January, 2023).
+\
+National Institute of Standards and Technology (2003) "Section 1.3.6.6.1 Normal Distribution". Available at [NIST/SEMATECH Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm) (Accessed 23rd December, 2022).
 \
 NumPy Documentation (2022) "Constants". Available at [NumPy](https://numpy.org/doc/stable/reference/constants.html) (Accessed 2nd January, 2023).
 \
@@ -247,6 +251,8 @@ NumPy Documentation (2022) "numpy.random.logistic". Available at [NumPy](https:/
 NumPy Documentation (2022) "numpy.random.standard_cauchy". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.standard_cauchy.html) (Accessed 1st January, 2023).
 \
 NumPy Documentation (2022) "numpy.random.standard_t". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.standard_t.html) (Accessed 1st January, 2023).
+\
+NumPy Documentation (2022) "numpy.random.uniform". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html) (Accessed 3rd January, 2023).
 \
 Starmer, J. (2017) "The Normal Distribution, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=rzFX5NWojp0) (Accessed 20th December, 2022).
 \
