@@ -20,6 +20,8 @@ All of the exercises are completed using [Jupyter Notebook](https://jupyter.org/
 
 **Task**: Adapt the code in Ian's initial tutorials to generate a 1000 character-long string with weights based on the previous two characters.
 
+**Comments**: I couldn't get this to work as I expected, so I have included my workings knowing that it doesn't currently function correctly.
+
 **References**:
 
 W3Schools (2022) "Python - Nested Dictionaries". Available at [W3Schools](https://www.w3schools.com/python/python_dictionaries_nested.asp) (Accessed 28th December, 2022).
