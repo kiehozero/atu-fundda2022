@@ -256,6 +256,8 @@ NumPy Documentation (2022) "numpy.random.standard_t". Available at [NumPy](https
 \
 NumPy Documentation (2022) "numpy.random.uniform". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html) (Accessed 3rd January, 2023).
 \
+SciPy Documentation (2002) "scipy.stats.norm". Available at [SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html) (Accessed 22nd December, 2022).
+\
 Starmer, J. (2017) "The Normal Distribution, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=rzFX5NWojp0) (Accessed 20th December, 2022).
 \
 Starmer, J. (2018) "The Central Limit Theorem, Clearly Explained". Available at [StatQuest (YouTube)](https://www.youtube.com/watch?v=YAlJCEDH2uY) (Accessed 28th December, 2022).
